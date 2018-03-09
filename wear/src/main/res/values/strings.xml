@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BrailleShapes</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_activity_braille_shapes">BrailleShapes</string>
+    <string name="brailleShapes">Shapes</string>
+    <string name="QWERTY">QWERTY</string>
+    <string name="brailleType">Braille Type</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

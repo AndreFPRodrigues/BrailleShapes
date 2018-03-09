@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="keyWidth">70px</dimen>
+    <dimen name="keyHeight">100px</dimen>
+    <dimen name="menuHeight">85px</dimen>
+    <dimen name="menuWidth">116px</dimen>
+    <dimen name="delWidth">316px</dimen>
+    <dimen name="spaceWidth">300px</dimen>
+    <dimen name="marginL">0px</dimen>
+    <dimen name="marginZL">100px</dimen>
+    <dimen name="marginAL">50px</dimen>
+    <dimen name="marginKeyboardR">10px</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

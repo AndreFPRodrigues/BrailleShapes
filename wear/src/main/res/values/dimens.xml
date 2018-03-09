@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="spaceWidth">10px</dimen>
+    <dimen name="menuHeight">5px</dimen>
+    <dimen name="keyWidth">30dp</dimen>
+    <dimen name="keyHeight">40dp</dimen>
+    <dimen name="marginL">10dp</dimen>
+    <dimen name="marginAL">2px</dimen>
+    <dimen name="marginBot">30dp</dimen>
+
+</resources>
